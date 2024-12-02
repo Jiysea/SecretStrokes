@@ -1,0 +1,5 @@
+C:\Users\Christy\Documents\VB.net\SecretStrokes\bin\Release\net8.0-windows\publish\SecretStrokes.exe
+C:\Users\Christy\Documents\VB.net\SecretStrokes\bin\Release\net8.0-windows\publish\SecretStrokes.dll
+C:\Users\Christy\Documents\VB.net\SecretStrokes\bin\Release\net8.0-windows\publish\SecretStrokes.deps.json
+C:\Users\Christy\Documents\VB.net\SecretStrokes\bin\Release\net8.0-windows\publish\SecretStrokes.runtimeconfig.json
+C:\Users\Christy\Documents\VB.net\SecretStrokes\bin\Release\net8.0-windows\publish\SecretStrokes.pdb
